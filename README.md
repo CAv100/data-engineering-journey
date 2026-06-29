@@ -16,7 +16,7 @@ I'm a data analyst with a background in capital/money markets monitoring and pha
 
 | Folder | What's in it |
 |---|---|
-| [`sql/`](./sql) | SQL exercises, query optimization notes |
+| `sql/`(./sql) | SQL exercises, query optimization notes |
 | [`python/`](./python) | ETL scripts, Pandas/PySpark practice |
 | [`spark/`](./spark) | Spark notes and jobs |
 | [`airflow/`](./airflow) | DAGs, orchestration notes |
@@ -28,7 +28,7 @@ I'm a data analyst with a background in capital/money markets monitoring and pha
 
 | Date | Topic | Notes |
 |---|---|---|
-| 2026-06-29 | e.g. SQL window functions | [Link to notes](./sql/window-functions.md) |
+| 2026-06-29 | Journey Initialization | [Link to notes](./sql/window-functions.md) |
 
 *(I'll update this table as I go — newest entries at the top.)*
 
