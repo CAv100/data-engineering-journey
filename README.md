@@ -28,7 +28,7 @@ I'm a data analyst with a background in capital/money markets monitoring and pha
 
 | Date | Topic | Notes |
 |---|---|---|
-| YYYY-MM-DD | e.g. SQL window functions | [Link to notes](./sql/window-functions.md) |
+| 2026-06-29 | e.g. SQL window functions | [Link to notes](./sql/window-functions.md) |
 
 *(I'll update this table as I go — newest entries at the top.)*
 
