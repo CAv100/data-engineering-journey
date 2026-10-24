@@ -1,3 +1,5 @@
+--Unions
+
 select es1.employee_id es_Santa, 
 es1.first_name First_name_santa, 
 es1.last_name Last_name_santa,
@@ -9,7 +11,6 @@ join employee_salary es2
 	on es1.employee_id + 1 = es2.employee_id
   ;  
     
--- Union --
 
 select first_name, last_name
 from employee_demographics
