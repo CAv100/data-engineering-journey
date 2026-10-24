@@ -1,3 +1,5 @@
+--Where Clauses
+
 select *
 from employee_salary
 where first_name = "Leslie"
